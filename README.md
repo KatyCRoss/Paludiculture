@@ -8,3 +8,5 @@ The aim of this piece of work was to establish if any emissions savings could be
 The dataset contains any measurments of emissions from paludiculture crops on the UK live list until Nov 2024. The full description of the dataset can be found in the readme of the dataset.
 
 The R script contains the code used to analyse the dataset.
+
+Recommended citation: Ross, K., (2024) Potential for Greenhouse Gas Emission Savings from Paludiculture, Department for Environment Food and Rural Affairs.
